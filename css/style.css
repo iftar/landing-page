@@ -1524,7 +1524,7 @@ font-size: 14px;
 
 /* line 19, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .features_area .features_main_wrap {
-  padding: 90px 0;
+  padding: 0px 0;
 }
 
 @media (max-width: 767px) {
