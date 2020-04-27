@@ -417,7 +417,7 @@ h3 {
 /* line 29, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #37EBED;
+  background: #40c8de;
   color: #fff;
   display: inline-block;
   padding: 14px 27px;
@@ -1334,7 +1334,6 @@ font-size: 23px;
 
 /* line 8, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
 .slider_area .single_slider {
-  height: 900px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1358,13 +1357,13 @@ font-size: 23px;
 /* line 22, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
 .slider_area .single_slider .phone_thumb {
   position: relative;
-  top: 10px;
+  top: 90px;
 }
 
 @media (max-width: 767px) {
   /* line 22, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
   .slider_area .single_slider .phone_thumb {
-    top: 60px;
+    top: 0px;
   }
 }
 
@@ -3409,7 +3408,7 @@ font-size: 14px;
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area {
-  padding: 168px 0 60px 0;
+  padding: 34px 0 60px 0;
 }
 
 @media (max-width: 767px) {
@@ -3497,7 +3496,7 @@ font-size: 14px;
 
 /* line 58, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 {
-  padding-top: 50px;
+  padding-top: 0px;
 }
 
 /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
