@@ -1357,7 +1357,7 @@ font-size: 23px;
 /* line 22, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
 .slider_area .single_slider .phone_thumb {
   position: relative;
-  top: 90px;
+  top: 50px;
 }
 
 @media (max-width: 767px) {
@@ -3408,7 +3408,7 @@ font-size: 14px;
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area {
-  padding: 34px 0 60px 0;
+  padding: 100px 0 60px 0;
 }
 
 @media (max-width: 767px) {
@@ -3563,6 +3563,7 @@ font-size: 14px;
   /* line 88, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
   .service_area_2 .service_content_wrap .single_service {
     padding-right: 0;
+	      text-align: center;
   }
 }
 
